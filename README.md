@@ -11,12 +11,6 @@ Calculus can be intimidating for students when they can only see equations on pa
 - **Error-Free Computation** - Symbolic math engine ensures accuracy
 - **Accessible Anywhere** - No installation required, works in any browser
 
-### Key Achievements
-- **Student-Tested** - Positive feedback on usability and learning effectiveness
-- **Real-Time Processing** - Instant computation and graphing
-- **Fully Responsive** - Works on desktop, tablet, and mobile
-- **Intuitive UI** - Clean interface designed for students
-
 ---
 
 ## Features
@@ -25,7 +19,6 @@ Calculus can be intimidating for students when they can only see equations on pa
 - **Symbolic Differentiation** - Compute derivatives of any input function
 - **Symbolic Integration** - Calculate indefinite integrals
 - **Multi-Function Graphing** - Visualize original, derivative, and integral simultaneously
-- **LaTeX Rendering** - Beautiful mathematical notation display
 - **Export Options** - Download graphs as PNG images
 - **Error Handling** - Clear feedback for invalid inputs
 
